@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503033957117",
+    "project_id": "fb-musicapp",
+    "storage_bucket": "fb-musicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503033957117:android:45d813088c776a890e8c94",
+        "android_client_info": {
+          "package_name": "com.firebasemusicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503033957117-kpkt7aurtj70h5j90pvpacmpqriubgum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyjXN0YscDWe-tJEkPNdL4JDbTxoMJwiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503033957117-kpkt7aurtj70h5j90pvpacmpqriubgum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
